@@ -1,0 +1,22 @@
+{
+ "creation": "2024-05-15 14:09:09.759991",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"company\":\"PHADKE ENGINEERS PVT LTD\",\"from_date\":\"2024-04-01\",\"to_date\":\"2025-03-31\",\"account\":[\"SECURED LOANS - PEPL\"],\"party\":[],\"group_by\":\"Group by Voucher (Consolidated)\",\"cost_center\":[],\"project\":[],\"include_dimensions\":1,\"include_default_book_entries\":1}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Loan",
+ "modified": "2024-05-15 14:09:09.793860",
+ "modified_by": "pankaj.joshi@phadkegroup.com",
+ "module": "Accounts",
+ "name": "Loan",
+ "owner": "pankaj.joshi@phadkegroup.com",
+ "report_field": "balance",
+ "report_function": "Sum",
+ "report_name": "General Ledger",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

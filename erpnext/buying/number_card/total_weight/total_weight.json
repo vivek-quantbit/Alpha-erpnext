@@ -1,0 +1,22 @@
+{
+ "creation": "2024-11-12 18:08:00.252406",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"company\":\"ALPHA FOUNDERS PVT LTD\",\"from_date\":\"2024-10-01\",\"to_date\":\"2024-10-31\"}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Total Purchase Weight (Alpha)",
+ "modified": "2024-11-12 18:17:08.695725",
+ "modified_by": "mayuresh.bhosale@erpdata.in",
+ "module": "Buying",
+ "name": "Total Weight",
+ "owner": "mayuresh.bhosale@erpdata.in",
+ "report_field": "custom_weight",
+ "report_function": "Sum",
+ "report_name": "Purchase Receipt Register Script",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

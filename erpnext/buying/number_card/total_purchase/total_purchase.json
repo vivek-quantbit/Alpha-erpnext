@@ -1,0 +1,22 @@
+{
+ "creation": "2024-11-12 12:38:50.186908",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"from_date\":\"2024-10-12\",\"to_date\":\"2024-11-12\",\"company\":\"ALPHA FOUNDERS PVT LTD\"}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Total Purchase",
+ "modified": "2024-11-12 12:38:50.214226",
+ "modified_by": "mayuresh.bhosale@erpdata.in",
+ "module": "Buying",
+ "name": "Total Purchase",
+ "owner": "mayuresh.bhosale@erpdata.in",
+ "report_field": "rounded_total",
+ "report_function": "Sum",
+ "report_name": "Purchase Register",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

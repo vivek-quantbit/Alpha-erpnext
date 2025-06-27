@@ -1,0 +1,33 @@
+{
+ "chart_name": "Total Purchase",
+ "chart_type": "Report",
+ "creation": "2024-11-12 12:41:11.381867",
+ "custom_options": "{\"x_field\": \"supplier_group\", \"chart_type\": \"Bar\", \"y_axis_fields\": [{\"idx\": 1, \"__islocal\": true, \"y_field\": \"rounded_total\", \"color\": \"#ECAD4B\", \"name\": \"row 1\"}], \"y_fields\": [\"rounded_total\"], \"colors\": [\"#ECAD4B\"]}",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "filters_json": "{\"from_date\":\"2024-10-12\",\"to_date\":\"2024-11-12\",\"company\":\"ALPHA FOUNDERS PVT LTD\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "modified": "2024-11-12 12:41:11.429333",
+ "modified_by": "mayuresh.bhosale@erpdata.in",
+ "module": "Buying",
+ "name": "Total Purchase",
+ "number_of_groups": 0,
+ "owner": "mayuresh.bhosale@erpdata.in",
+ "report_name": "Purchase Register",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "supplier_group",
+ "y_axis": [
+  {
+   "color": "#ECAD4B",
+   "y_field": "rounded_total"
+  }
+ ]
+}

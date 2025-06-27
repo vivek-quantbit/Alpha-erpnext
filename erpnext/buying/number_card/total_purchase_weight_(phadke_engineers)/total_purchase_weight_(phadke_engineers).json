@@ -1,0 +1,22 @@
+{
+ "creation": "2024-11-12 18:13:06.626384",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"company\":\"PHADKE ENGINEERS PVT LTD\",\"from_date\":\"2024-10-01\",\"to_date\":\"2024-10-31\",\"supplier\":[],\"item_group\":[]}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "Total Purchase Weight (Phadke Engineers)",
+ "modified": "2024-11-12 18:13:06.648072",
+ "modified_by": "mayuresh.bhosale@erpdata.in",
+ "module": "Buying",
+ "name": "Total Purchase Weight (Phadke Engineers)",
+ "owner": "mayuresh.bhosale@erpdata.in",
+ "report_field": "custom_weight",
+ "report_function": "Sum",
+ "report_name": "Purchase Receipt Register Script",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

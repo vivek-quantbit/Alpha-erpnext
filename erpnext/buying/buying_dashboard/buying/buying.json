@@ -1,0 +1,65 @@
+{
+ "cards": [
+  {
+   "card": "Annual Purchase"
+  },
+  {
+   "card": "Purchase Orders to Receive"
+  },
+  {
+   "card": "Purchase Orders to Bill"
+  },
+  {
+   "card": "Active Suppliers"
+  },
+  {
+   "card": "Total Purchase"
+  },
+  {
+   "card": "Total Weight"
+  },
+  {
+   "card": "Total Weight (Ferocast)"
+  },
+  {
+   "card": "Total Purchase Weight (Phadke Engineers)"
+  },
+  {
+   "card": "Total Weight"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Purchase Order Trends",
+   "width": "Full"
+  },
+  {
+   "chart": "Material Request Analysis",
+   "width": "Half"
+  },
+  {
+   "chart": "Purchase Order Analysis",
+   "width": "Half"
+  },
+  {
+   "chart": "Top Suppliers",
+   "width": "Full"
+  },
+  {
+   "chart": "Total Purchase",
+   "width": "Full"
+  }
+ ],
+ "creation": "2020-07-20 21:01:02.541065",
+ "dashboard_name": "Buying",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-11-14 13:31:43.681236",
+ "modified_by": "Administrator",
+ "module": "Buying",
+ "name": "Buying",
+ "owner": "Administrator"
+}

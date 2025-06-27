@@ -1,0 +1,32 @@
+{
+ "chart_name": "Sales Details",
+ "chart_type": "Report",
+ "creation": "2024-11-22 17:39:06.207835",
+ "custom_options": "{\"x_field\": \"customer_name\", \"chart_type\": \"Bar\", \"y_axis_fields\": [{\"idx\": 1, \"__islocal\": true, \"y_field\": \"value_per_unit\", \"name\": \"row 1\"}, {\"idx\": 2, \"__islocal\": true, \"y_field\": \"stock_qty\", \"name\": \"row 2\"}], \"y_fields\": [\"value_per_unit\", \"stock_qty\"], \"colors\": [null, null]}",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "filters_json": "{\"from_date\":\"2024-10-22\",\"to_date\":\"2024-11-22\",\"company\":\"ALPHA FOUNDERS PVT LTD\"}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2024-11-22 17:41:22.957189",
+ "modified_by": "mayuresh.bhosale@erpdata.in",
+ "module": "Selling",
+ "name": "Sales Details",
+ "number_of_groups": 0,
+ "owner": "mayuresh.bhosale@erpdata.in",
+ "report_name": "Item- Weight - wise Sales Register",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "customer_name",
+ "y_axis": [
+  {
+   "y_field": "total"
+  }
+ ]
+}

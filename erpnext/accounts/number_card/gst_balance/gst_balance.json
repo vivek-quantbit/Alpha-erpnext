@@ -1,0 +1,22 @@
+{
+ "creation": "2024-05-10 14:09:23.191307",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "{\"company\":\"ALPHA FOUNDERS PVT LTD\",\"company_gstin\":\"27AAJCA3215H1ZW\",\"from_date\":\"2024-04-01\",\"to_date\":\"2024-04-30\",\"show_summary\":1}",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 0,
+ "is_standard": 1,
+ "label": "GST Balance",
+ "modified": "2024-05-10 14:09:23.228750",
+ "modified_by": "pankaj.joshi@phadkegroup.com",
+ "module": "Accounts",
+ "name": "GST Balance",
+ "owner": "pankaj.joshi@phadkegroup.com",
+ "report_field": "gstin_27AAJCA3215H1ZW",
+ "report_function": "Sum",
+ "report_name": "GST Balance",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Report"
+}

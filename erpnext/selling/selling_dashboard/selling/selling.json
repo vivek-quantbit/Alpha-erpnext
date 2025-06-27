@@ -1,0 +1,65 @@
+{
+ "cards": [
+  {
+   "card": "Annual Sales"
+  },
+  {
+   "card": "Sales Orders to Deliver"
+  },
+  {
+   "card": "Sales Orders to Bill"
+  },
+  {
+   "card": "Active Customers"
+  },
+  {
+   "card": "Weight"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Sales Order Trends",
+   "width": "Full"
+  },
+  {
+   "chart": "Top Customers",
+   "width": "Half"
+  },
+  {
+   "chart": "Sales Order Analysis",
+   "width": "Half"
+  },
+  {
+   "chart": "Item-wise Annual Sales",
+   "width": "Full"
+  },
+  {
+   "chart": "Quantity Wise Sale",
+   "width": "Full"
+  },
+  {
+   "chart": "Sales Details",
+   "width": "Full"
+  },
+  {
+   "chart": "VAIBHAV",
+   "width": "Half"
+  },
+  {
+   "chart": "Vaibhav Report",
+   "width": "Half"
+  }
+ ],
+ "creation": "2020-07-20 20:17:16.688162",
+ "dashboard_name": "Selling",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2025-04-19 10:16:14.026917",
+ "modified_by": "vaibhav@afpl.com",
+ "module": "Selling",
+ "name": "Selling",
+ "owner": "Administrator"
+}
